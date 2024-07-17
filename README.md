@@ -17,5 +17,5 @@ Pokedex (dashboard) to consult pokemon's stats
 Financial dashboard of Canada's provinces
 
 <p align="center">
-<img src="./imgs/canada_dashboard.png" width="813">
+<img src="./imgs/canada_dashboard.png" width="913">
 </p>
