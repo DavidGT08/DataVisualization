@@ -1,5 +1,8 @@
 # Data visualization space
 
+Just for the love of data visualization...
+
+
 ## Pokemon dashboard
 
 Pokedex (dashboard) to consult pokemon's stats
