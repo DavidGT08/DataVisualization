@@ -8,7 +8,7 @@ Just for the love of data visualization...
 Pokedex (dashboard) to consult pokemon's stats
 
 <p align="center">
-<img src="./imgs/pokemon_dashboard.png" width="713">
+<img src="./imgs/pokemon_dashboard.png" width="913">
 </p>
 
 
@@ -17,5 +17,5 @@ Pokedex (dashboard) to consult pokemon's stats
 Financial dashboard of Canada's provinces
 
 <p align="center">
-<img src="./imgs/canada_dashboard.png" width="713">
+<img src="./imgs/canada_dashboard.png" width="813">
 </p>
