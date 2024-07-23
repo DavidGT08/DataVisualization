@@ -23,8 +23,8 @@ Financial dashboard of Canada's provinces
 
 ## Prime video sales dashboard
 
-Financial dashboard of Canada's provinces
+Prime Video stats dashboard 
 
 <p align="center">
-<img src="./imgs/amazon-sales_dashboard.pdf" width="913">
+<img src="./imgs/prime-video_dash.png" width="913">
 </p>
