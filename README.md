@@ -21,7 +21,7 @@ Financial dashboard of Canada's provinces
 </p>
 
 
-## Prime video sales dashboard
+## Prime video dashboard
 
 Prime Video stats dashboard 
 
